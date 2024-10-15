@@ -26,13 +26,13 @@
 在将仓库克隆到您的计算机后：
 
 ```bash
-git clone
+git clone git@github.com:CourteousBin/Runes-Dashboard.git
 ```
 
 导航到项目文件夹：
 
 ```bash
-cd 
+cd Runes-Dashboard
 ```
 
 安装项目依赖项：
